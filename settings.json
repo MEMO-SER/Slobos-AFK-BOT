@@ -8,13 +8,13 @@
   "server": {
     "ip": "redoxo.aternos.me",
     "port": 21705,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -18,
+    "y": 69,
+    "z": -34
   },
   "utils": {
     "auto-auth": {
